@@ -18,5 +18,5 @@
         
 * Lab 9
 
-        Lab 9, part 1 was a favorite because it was about math. I feel like anything that has to do with math I really enjoy because it is something that is real, not made up or imaginary. Working with math is something I really enjoy. That is also why I like my Calculus class. Finding the average of something using math and computer science makes it so much easier than doing it yourself!
+        Lab 9, part 1 was a favorite because it was about math. I feel like anything that has to do with math I really enjoy because it is something that is real, not made up or imaginary. Working with math is something I really enjoy. That is also why I like my Calculus class. Finding the average of something using math and computer science makes it so much easier than doing it yourself.
     ```
