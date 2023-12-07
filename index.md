@@ -14,7 +14,7 @@
 
 * Lab 6
 
-        Lab 6, part 1 was a favorite because it was about sandwiches. I love food and anything that has to do with food will make me more intrigued and invested into the project. It is also cool how we used computer science for a more practical real life purpose!
+        Lab 6, part 1 was a favorite because it was about sandwiches. I love food and anything that has to do with food will make me more intrigued and invested into the project. It is also cool how we used computer science for a more practical real life purpose.
         
 * Lab 9
 
